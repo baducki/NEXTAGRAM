@@ -2,165 +2,165 @@
 <items version="2" >
 
     <item
-        jar="/Users/YG/Downloads/Nextagram_YG/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jar="/Users/YG/Documents/NEXTAGRAM/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
-        <dex dex="/Users/YG/Downloads/Nextagram_YG/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-6040bd7043036ffe4f534b7a07f6a5f4e999d2f7.jar" />
+        <dex dex="/Users/YG/Documents/NEXTAGRAM/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-a829e1b64c92e26b0e108795a16852f6f25793bb.jar" />
     </item>
     <item
-        jar="/Users/YG/Downloads/Nextagram_YG/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.0.0/classes.jar"
+        jar="/Users/YG/Documents/NEXTAGRAM/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.0.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
-        <dex dex="/Users/YG/Downloads/Nextagram_YG/app/build/intermediates/pre-dexed/debug/classes-3f99120387ca36b406589220aa96e5abfd418084.jar" />
-    </item>
-    <item
-        jar="/Users/YG/Downloads/Nextagram_YG/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.0.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
-        <dex dex="/Users/YG/Downloads/Nextagram_YG/app/build/intermediates/pre-dexed/debug/classes-62a55a821c5e05c586c965fabb353925a632ae1b.jar" />
-    </item>
-    <item
-        jar="/Users/YG/Downloads/Nextagram_YG/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
-        <dex dex="/Users/YG/Downloads/Nextagram_YG/app/build/intermediates/pre-dexed/debug/classes-e9c258bb6376d47449d8d6e3c7e48ce40c360dd5.jar" />
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="/Users/YG/Documents/NEXTAGRAM/app/build/intermediates/pre-dexed/debug/classes-f31c0208da55f94180c8a24f952da1548dbdf793.jar" />
     </item>
     <item
         jar="/Applications/eclipse/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
-        <dex dex="/Users/YG/Downloads/Nextagram_YG/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-097ad71762290d78ecdd16bda2d6141c7cfa6e52.jar" />
+        <dex dex="/Users/YG/Documents/NEXTAGRAM/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-097ad71762290d78ecdd16bda2d6141c7cfa6e52.jar" />
     </item>
     <item
-        jar="/Users/YG/Downloads/Nextagram_YG/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.0.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
-        <dex dex="/Users/YG/Downloads/Nextagram_YG/app/build/intermediates/pre-dexed/debug/classes-4656010ba9d2a68975a9cb49d8ad7c85c2802b17.jar" />
-    </item>
-    <item
-        jar="/Users/YG/Downloads/Nextagram_YG/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.0.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
-        <dex dex="/Users/YG/Downloads/Nextagram_YG/app/build/intermediates/pre-dexed/debug/classes-a1fce8a1fdec8fa1f72f2c5b91d914b62ccb314d.jar" />
-    </item>
-    <item
-        jar="/Users/YG/Downloads/Nextagram_YG/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
-        <dex dex="/Users/YG/Downloads/Nextagram_YG/app/build/intermediates/pre-dexed/debug/classes-f7b6b2d2a1278cf0f0939bd4f1448a4fa85b6402.jar" />
-    </item>
-    <item
-        jar="/Users/YG/Downloads/Nextagram_YG/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.0.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
-        <dex dex="/Users/YG/Downloads/Nextagram_YG/app/build/intermediates/pre-dexed/debug/classes-ab717fa808c0f40d32762d819195159230751a9a.jar" />
-    </item>
-    <item
-        jar="/Users/YG/Downloads/Nextagram_YG/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.0.0/classes.jar"
+        jar="/Users/YG/Documents/NEXTAGRAM/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.0.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
-        <dex dex="/Users/YG/Downloads/Nextagram_YG/app/build/intermediates/pre-dexed/debug/classes-710c2c8192dd877d7423280a6fa6e08732d062fc.jar" />
+        <dex dex="/Users/YG/Documents/NEXTAGRAM/app/build/intermediates/pre-dexed/debug/classes-d93236332e4924561b85910fc999cd565167b299.jar" />
     </item>
     <item
-        jar="/Users/YG/Downloads/Nextagram_YG/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.0.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
-        <dex dex="/Users/YG/Downloads/Nextagram_YG/app/build/intermediates/pre-dexed/debug/classes-b0f823f49d4d9638c2b7f61dde766d01ef3385ee.jar" />
-    </item>
-    <item
-        jar="/Users/YG/Downloads/Nextagram_YG/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.0.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
-        <dex dex="/Users/YG/Downloads/Nextagram_YG/app/build/intermediates/pre-dexed/debug/classes-ff7c5a066ab4e7f4e914c860e6ab3aa4b7119cb0.jar" />
-    </item>
-    <item
-        jar="/Users/YG/Downloads/Nextagram_YG/app/libs/android-async-http-1.4.6.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
-        <dex dex="/Users/YG/Downloads/Nextagram_YG/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.6-7116bc577c4dc24792c19ce2a44716021ac15fc3.jar" />
-    </item>
-    <item
-        jar="/Users/YG/Downloads/Nextagram_YG/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.0.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
-        <dex dex="/Users/YG/Downloads/Nextagram_YG/app/build/intermediates/pre-dexed/debug/classes-b6bcc54e65c6b84c31487e0d301187e3fc7de7de.jar" />
-    </item>
-    <item
-        jar="/Users/YG/Downloads/Nextagram_YG/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.0.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
-        <dex dex="/Users/YG/Downloads/Nextagram_YG/app/build/intermediates/pre-dexed/debug/classes-536d6d33ad04c4e918d91af2314aacc0a1361176.jar" />
-    </item>
-    <item
-        jar="/Users/YG/Downloads/Nextagram_YG/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.0.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
-        <dex dex="/Users/YG/Downloads/Nextagram_YG/app/build/intermediates/pre-dexed/debug/classes-a3826ac50ab1d752d5063583ca694d1cfe752f5e.jar" />
-    </item>
-    <item
-        jar="/Users/YG/Downloads/Nextagram_YG/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.0.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="055783146ba9654a725442563be78cad303aad1f">
-        <dex dex="/Users/YG/Downloads/Nextagram_YG/app/build/intermediates/pre-dexed/debug/classes-3d71783dd1b8355ffcc0f85589660b089adb6532.jar" />
-    </item>
-    <item
-        jar="/Users/YG/Downloads/Nextagram_YG/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
-        <dex dex="/Users/YG/Downloads/Nextagram_YG/app/build/intermediates/pre-dexed/debug/classes-536ca5164ffdc4697212aa0ef4c9ba473923f045.jar" />
-    </item>
-    <item
-        jar="/Users/YG/Downloads/Nextagram_YG/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jar="/Users/YG/Documents/NEXTAGRAM/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
-        <dex dex="/Users/YG/Downloads/Nextagram_YG/app/build/intermediates/pre-dexed/debug/classes-ec697cf29b854f03fcde44dd5e35fc4904f2197c.jar" />
+        <dex dex="/Users/YG/Documents/NEXTAGRAM/app/build/intermediates/pre-dexed/debug/classes-748a3085f593cdff640cc4cf5b8b41df6fba3160.jar" />
     </item>
     <item
-        jar="/Users/YG/Downloads/Nextagram_YG/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.0.0/classes.jar"
+        jar="/Users/YG/Documents/NEXTAGRAM/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
-        <dex dex="/Users/YG/Downloads/Nextagram_YG/app/build/intermediates/pre-dexed/debug/classes-024c3adcccb84fcfe88d33e6b6a0e48b88cf2dfb.jar" />
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="/Users/YG/Documents/NEXTAGRAM/app/build/intermediates/pre-dexed/debug/classes-794bd12fcf060a848530f5b9f5878af64a1ea244.jar" />
     </item>
     <item
-        jar="/Users/YG/Downloads/Nextagram_YG/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.0.0/classes.jar"
+        jar="/Users/YG/Documents/NEXTAGRAM/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="/Users/YG/Documents/NEXTAGRAM/app/build/intermediates/pre-dexed/debug/classes-9ddf60749f8314cc42ee8fd9d3d16c882049a111.jar" />
+    </item>
+    <item
+        jar="/Users/YG/Documents/NEXTAGRAM/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.0.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
-        <dex dex="/Users/YG/Downloads/Nextagram_YG/app/build/intermediates/pre-dexed/debug/classes-fd8863baa3f79b8d16542316758603e6f0ba2356.jar" />
+        <dex dex="/Users/YG/Documents/NEXTAGRAM/app/build/intermediates/pre-dexed/debug/classes-c800d6058fcdd86580757a5e8cd819e74a615bce.jar" />
     </item>
     <item
-        jar="/Users/YG/Downloads/Nextagram_YG/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.0.0/classes.jar"
+        jar="/Users/YG/Documents/NEXTAGRAM/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.0.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
-        <dex dex="/Users/YG/Downloads/Nextagram_YG/app/build/intermediates/pre-dexed/debug/classes-35844767fe63482ae7744193f648bcbe0038c433.jar" />
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="/Users/YG/Documents/NEXTAGRAM/app/build/intermediates/pre-dexed/debug/classes-e21f14a954d3de8b45af884644e198daa2602488.jar" />
     </item>
     <item
-        jar="/Users/YG/Downloads/Nextagram_YG/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.0.0/classes.jar"
+        jar="/Users/YG/Documents/NEXTAGRAM/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="/Users/YG/Documents/NEXTAGRAM/app/build/intermediates/pre-dexed/debug/classes-886966085dd4861d09ddd5f43b4ffe932ab83f0b.jar" />
+    </item>
+    <item
+        jar="/Users/YG/Documents/NEXTAGRAM/app/libs/android-async-http-1.4.6.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="/Users/YG/Documents/NEXTAGRAM/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.6-979d8c3dd560fb206a7559d1edae91ab009d418b.jar" />
+    </item>
+    <item
+        jar="/Users/YG/Documents/NEXTAGRAM/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="/Users/YG/Documents/NEXTAGRAM/app/build/intermediates/pre-dexed/debug/classes-62d5fb4392e4bee8d8866236f0456578983a886b.jar" />
+    </item>
+    <item
+        jar="/Users/YG/Documents/NEXTAGRAM/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="/Users/YG/Documents/NEXTAGRAM/app/build/intermediates/pre-dexed/debug/classes-1b62acd3682cd150f039d633300a61c36d3e7572.jar" />
+    </item>
+    <item
+        jar="/Users/YG/Documents/NEXTAGRAM/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.0.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
-        <dex dex="/Users/YG/Downloads/Nextagram_YG/app/build/intermediates/pre-dexed/debug/classes-dff50d9330274e14d7999d1fc9954d5848dc8982.jar" />
+        <dex dex="/Users/YG/Documents/NEXTAGRAM/app/build/intermediates/pre-dexed/debug/classes-e7f70ada5f096434b395c7ce572b79021a2a2af3.jar" />
+    </item>
+    <item
+        jar="/Users/YG/Documents/NEXTAGRAM/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="/Users/YG/Documents/NEXTAGRAM/app/build/intermediates/pre-dexed/debug/classes-7e37c957893183a0dbec8a2aae99def42ae7191e.jar" />
+    </item>
+    <item
+        jar="/Users/YG/Documents/NEXTAGRAM/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="/Users/YG/Documents/NEXTAGRAM/app/build/intermediates/pre-dexed/debug/classes-b7d23b86d8c83a3d74fc2c54ae17ec7dad04ddf5.jar" />
+    </item>
+    <item
+        jar="/Users/YG/Documents/NEXTAGRAM/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="/Users/YG/Documents/NEXTAGRAM/app/build/intermediates/pre-dexed/debug/classes-5614a62a800cb900072e5f18cbd4496227300690.jar" />
+    </item>
+    <item
+        jar="/Users/YG/Documents/NEXTAGRAM/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="/Users/YG/Documents/NEXTAGRAM/app/build/intermediates/pre-dexed/debug/classes-f0633c4bc537799bb943480561402ab3b07bafd7.jar" />
+    </item>
+    <item
+        jar="/Users/YG/Documents/NEXTAGRAM/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="/Users/YG/Documents/NEXTAGRAM/app/build/intermediates/pre-dexed/debug/classes-268850985e689757838a431e5bdfd2c6e744c619.jar" />
+    </item>
+    <item
+        jar="/Users/YG/Documents/NEXTAGRAM/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="/Users/YG/Documents/NEXTAGRAM/app/build/intermediates/pre-dexed/debug/classes-2d98341584f7f68c7f4cc2b2cafc10fd9a0f0c8a.jar" />
+    </item>
+    <item
+        jar="/Users/YG/Documents/NEXTAGRAM/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="/Users/YG/Documents/NEXTAGRAM/app/build/intermediates/pre-dexed/debug/classes-7992859b22e0455f45b1623a805b920ad2773cee.jar" />
+    </item>
+    <item
+        jar="/Users/YG/Documents/NEXTAGRAM/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="/Users/YG/Documents/NEXTAGRAM/app/build/intermediates/pre-dexed/debug/classes-0107782da24f03e55444328a56c2c2eb9fd54f93.jar" />
+    </item>
+    <item
+        jar="/Users/YG/Documents/NEXTAGRAM/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="/Users/YG/Documents/NEXTAGRAM/app/build/intermediates/pre-dexed/debug/classes-c7cad7dff3b7ddd05295461722c94896fb1368c5.jar" />
     </item>
 
 </items>
